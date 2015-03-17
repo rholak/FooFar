@@ -41,7 +41,7 @@ main.on('click', 'select', function(e) {
   var textfield = new UI.Text({
     position: new Vector2(0, 50),
     size: new Vector2(144, 90),
-    font: 'gothic-24-bold',
+    font: 'gothic-12-bold',
     text: 'Text Anywhere! Or Everywhere! Holy Crap!',
     textAlign: 'center'
   });
