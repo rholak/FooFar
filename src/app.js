@@ -42,7 +42,7 @@ main.on('click', 'select', function(e) {
     position: new Vector2(0, 50),
     size: new Vector2(144, 30),
     font: 'gothic-24-bold',
-    text: 'Text Anywhere!',
+    text: 'Text Anywhere! Or Everywhere! Holy Crap!',
     textAlign: 'center'
   });
   wind.add(textfield);
